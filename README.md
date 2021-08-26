@@ -22,11 +22,11 @@
 
 ![Open project](https://dm2305files.storage.live.com/y4m4SjFM2Ofz1XXb_SH6Bx9fPZBnCKSZ6Qt39w3gimZPEc-YCq1Qw1mFpk2iA3GKizCIOwPJfyKvi_l1aHLJcNpqUnB8CjldhluNNz2KERoZOyXU3oOUJuCOCaCGVJTA9VNT3fyWor58f9ImxCPWuc75HhNlV88Khz77rlmnJg42bst952X8mvRTNJZZCmBI7ns?width=618&height=756&cropmode=none)
 
-3. 在运行脚本之前，**务必**先将运行速度调整至最慢。在Selenium IDE窗口中，选择工具栏中的`Test execution speed`（显示为 :stopwatch: 图形），并将滑块拖动至最慢。
+3. 在运行脚本之前，**务必**先将运行速度调整至最慢。在Selenium IDE窗口中，选择工具栏中的`Test execution speed`（显示为:stopwatch: 图形），并将滑块拖动至最慢。
 
 ![Open project](https://dm2305files.storage.live.com/y4mtFy9M7JkQOkIU6iW-CCQdZiqWKpf7V4Q8ehevXaPU0OJePPGC0jjwuwJna3LXydVYha1s4V3fPhcBwxMN-D5F2Dmex6swQFDj8CHnFXT2KJg8OOHo-W_LmwtD-7km8gCgzSn1FigJfb1mt3oNTYNlsdcUbHyFF5FAKREtsiSCPN9jkrAkj_g4n66-vtdt-v1?width=618&height=756&cropmode=none)
 
-4. 点击工具栏中的`Run current test`（显示为 :arrow_forward: 图形）。脚本开始自动运行，约10分钟左右完成实验操作，并自动提交。
+4. 点击工具栏中的`Run current test`（显示为:arrow_forward: 图形）。脚本开始自动运行，约10分钟左右完成实验操作，并自动提交。
 
 **注意**：脚本运行过程中，请勿对浏览器窗口进行任何操作。
 
