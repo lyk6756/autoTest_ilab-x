@@ -9,7 +9,7 @@
 
 使用Google Chrome浏览器打开[https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd](https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd)将Selenium IDE添加至Chrome即可。
 
-或直接将项目中的`Selenium-IDE_v3.17.0.crx`文件拖拽至Chrome浏览器中进行安装。
+或采用项目中的`Selenium-IDE_v3.17.0.crx`文件进行离线安装。具体安装方式详见[这里](https://www.cnplugins.com/tool/three-methods-to-install-crx.html)。
 
 ## 前置条件：登陆
 
@@ -31,3 +31,13 @@
 **注意**：脚本运行过程中，请勿对浏览器窗口进行任何操作。
 
 ![Open project](https://dm2305files.storage.live.com/y4m2FNAOBaSe9QotT6YdK3jEXCPmjSkYYsgozNxTr0lmEtqKu8tB1l7rOP3idGYLxHWhkax8YIKY_QFyURWh2qUfN-3aAxYXvlAwFr7BOeFy9R-qz-AqNcNy14BnMaFIxU7lrLstoQrq_SRUfn_ycNuGyU4jipO-Ayvlu0n9Oq64QRTUEw2z8g_R0TZBoJkIBL4?width=618&height=756&cropmode=none)
+
+---
+
+## 延伸阅读
+
+* [Selenium IDE](https://www.selenium.dev/selenium-ide/)
+
+* [Selenium IDE Web 自动化测试（上） - bilibili](https://www.bilibili.com/video/BV1fJ411w7mk)
+
+* [Python语言下使用Selenium实现对浏览器的自动控制 - 李宇琨的博客](https://lyk6756.github.io/2017/08/01/selenium.html)

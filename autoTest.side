@@ -7,17 +7,17 @@
     "id": "78044b63-c924-4a99-b527-899f042de6eb",
     "name": "0.1",
     "commands": [{
-      "id": "43b4bddf-2160-4623-b374-62ca242ab8dd",
-      "comment": "",
-      "command": "open",
-      "target": "/details/2020?id=6585&isView=true",
-      "targets": [],
-      "value": ""
-    }, {
       "id": "982ba1c5-5c97-46c7-bd52-7161a65a1d64",
       "comment": "",
       "command": "setWindowSize",
       "target": "1280x960",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "43b4bddf-2160-4623-b374-62ca242ab8dd",
+      "comment": "",
+      "command": "open",
+      "target": "/details/2020?id=6585&isView=true",
       "targets": [],
       "value": ""
     }, {
@@ -105,7 +105,7 @@
         ["xpath=//div[@id='gameContainer']/canvas", "xpath:idRelative"],
         ["xpath=//canvas", "xpath:position"]
       ],
-      "value": "900,445"
+      "value": "880,455"
     }, {
       "id": "6b0477a1-7a3b-4261-a0fc-2a8e762368ed",
       "comment": "",
