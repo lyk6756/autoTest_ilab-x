@@ -21,6 +21,13 @@
       "targets": [],
       "value": ""
     }, {
+      "id": "5bc94253-7284-4d42-817b-75a902f87559",
+      "comment": "",
+      "command": "pause",
+      "target": "10000",
+      "targets": [],
+      "value": ""
+    }, {
       "id": "f87a0b9a-8a1e-4bf3-8dbb-f8a2ef352471",
       "comment": "",
       "command": "click",
@@ -37,6 +44,13 @@
       "opensWindow": true,
       "windowHandleName": "win1391",
       "windowTimeout": 20000
+    }, {
+      "id": "04da6c21-6487-4e03-b51a-f7eb95b72216",
+      "comment": "",
+      "command": "pause",
+      "target": "10000",
+      "targets": [],
+      "value": ""
     }, {
       "id": "efb6c18a-ecbe-47e7-a65c-497174e3a0f8",
       "comment": "",
