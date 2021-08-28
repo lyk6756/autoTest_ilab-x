@@ -1,6 +1,6 @@
 # 使用Selenium IDE + Chrome进行虚拟实验的自动化测试
 
-该项目使用Selenium IDE和Google Chrome对[国家虚拟仿真实验教学课程共享平台](http://www.ilab-x.com/)中的[复合材料结构强度与稳定性积木式验证虚拟仿真实验](http://www.ilab-x.com/details/2020?id=6585&isView=true)课程实现自动化测试。进行其中的虚拟实验操作并提交结果。具体测试内容参见项目中的`力学虚拟实验操作说明 .pdf`文档。
+该项目使用Selenium IDE和Google Chrome对[国家虚拟仿真实验教学课程共享平台](http://www.ilab-x.com/)中的[《复合材料结构强度与稳定性积木式验证虚拟仿真实验》](http://www.ilab-x.com/details/2020?id=6585&isView=true)课程实现自动化测试。进行其中的虚拟实验操作并提交结果。具体测试内容参见项目中的`力学虚拟实验操作说明.pdf`文档。
 
 ## 环境准备
 
